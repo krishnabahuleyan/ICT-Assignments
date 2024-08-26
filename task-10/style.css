@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(224, 174, 240);
+
+}
+div.form{
+    background-color: rgb(190, 231, 233);
+    width: fit-content;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin-left: 40%;
+    margin-top: 10%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+#signup_form{
+    text-align: center;
+    align-content: center;
+}
+#password_error{
+    color: red;
+    visibility: hidden;
+
+}
+button{
+    align-content: center;
+
+}
+#msg{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
